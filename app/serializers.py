@@ -6,7 +6,7 @@ from .models import Office, Post
 class OfficeSerializer(serializers.ModelSerializer):
 	"""
 	Сериалайзер для модели Office
-	:param модель которую нужно валидировать и преобразовать в json\xml
+	:param модель которую нужно валидировать и преобразовать в json или xml
 	:return сериализованный объект
 	"""
 
@@ -33,7 +33,7 @@ class OfficeSerializer(serializers.ModelSerializer):
 class PostSerializer(serializers.ModelSerializer):
 	"""
 	Сериалайзер для модели Post
-	:param модель которую нужно валидировать и преобразовать в json\xml
+	:param модель которую нужно валидировать и преобразовать в json или xml
 	:return сериализованный объект
 	"""
 
