@@ -13,7 +13,7 @@ $ git clone https://github.com/zakhep66/polytech_project.git
 $ python -m venv yovenv (для Linux: python3 -m venv yovenv)
 ```
 
-2) активируйте виртуальное окружение:
+2) Активируйте виртуальное окружение:
 ```
 $ .\yovenv\Scripts\activate.bat (для Linux: source ./yovenv/bin/activate)
 ```
