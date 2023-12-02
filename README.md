@@ -1,3 +1,5 @@
+# Django RESTful API template
+
 ### Склонируйте репозиторий
 
 ```sh
